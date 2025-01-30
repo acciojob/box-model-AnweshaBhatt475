@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.container{
+	height:190px;
+	width: 450px;
+	border:5px solid black;
+	border-radius:40px;
+	display:flex;
+	align-items:center;
+	padding-left:70px;
+	background-color:lightgrey;
+}
+.box1{
+	height:90px;
+	background-color:green;
+	width:90px;
+	border-radius:50%;
+	margin:20px 20px;
+}
+.box2{
+	height:90px;
+	background-color:yellow;
+	width:90px;
+	border-radius:50%;
+	margin:20px 20px;
+}
+.box3{
+	height:90px;
+	background-color:red;
+	width:90px;
+	border-radius:50%;
+	margin:20px 20px;
+}
